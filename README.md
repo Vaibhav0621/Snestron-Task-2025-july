@@ -10,6 +10,7 @@ This project implements a complete customer churn prediction pipeline including:
 - **Interactive web application**
 - **Model comparison and evaluation**
 - **Real-time predictions**
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/58d9e566-28d8-4417-a4f9-a5dba2d4e356" />
 
 ## 🏗️ Project Structure
 
