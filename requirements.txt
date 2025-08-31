@@ -3,3 +3,6 @@ scikit-learn
 pandas
 matplotlib
 seaborn
+plotly
+xgboost
+numpy
