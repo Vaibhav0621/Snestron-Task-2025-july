@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (too large for git)
+*.pkl
+!models/*.pkl
+
+# Data files (can be regenerated)
+*.csv
+!data/customer_churn_dataset.csv
+
+# Logs
+*.log
